@@ -1,10 +1,10 @@
 {
   "version": 1,
   "appUpdate": {
-    "versionCode": 666,
-    "versionName": "6.6.6",
+    "versionCode": 301,
+    "versionName": "3.1.67",
     "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/3.1.67/app-release.apk",
-    "changelog": "• Demon's Placeholder. please exit this update for test.",
+    "changelog": "• UNINSTALL THIS APP AND INSTALL THIS NEW UPDATE, this update will not affect any user files EXCEPT SONGFILES in the IDX folder\n• Mangyaring i-uninstall ang aplikasyong ito at i-install ang bagong update. Hindi po maaapektuhan ang inyong iba pang mga file MALIBAN LAMANG sa mga songfile sa loob ng IDX folder.\n• HUWAG MAKULIT KUNG BAKIT NAMIN TO GINAGAWA NGAYON, DAHIL VIRAL NA AT MADAMING NANANAMANTALA NG APPLICATION (TULAD NG PAGBEBENTA NG APK, PAGDIDISTRIBUTE NG SONG LIST, AT GINAGAWANG NEGOSYO ANG INSTALLATION) KAILANGAN NYONG IPA-ACTIVATE ANG SONGHUB.\n• I-update ang bagong Songfile na sample after i-install ang bagong bersyon na ito dahil Hindi na gagana ang lumang prebuilt song nito. (PAALALA: SA MGA NAKAPAGGAWA NG SONGLIST AT NAG PRINT PA ANG KUKULIT NYO YAN NAPAPALA NG BIDA-BIDA, MAY ILAN NA MABUBURA AT MAGBABAGO ANG LAMAN NG SAMPLE FILE ANG KUKULIT AT TATANGA NINYO)\n• UGALIING PUMUNTA SA GITHUB PAGE NA ITO PARA SA KARAGDAGANG UPDATES OR SA AMING FACEBOOK GROUP (SONGHUB KARAOKE).\n\n• SHOUT OUT SA MODERATOR AT ADMIN NG ANDROID GAMERS DYAN KUNG AYAW NYO PIGILAN MGA TAO DYAN KAMI NA ANG GAGAWA NG AKSYON. WAG NYO KAMING HINTAYIN NA KUMILOS.",
     "forceUpdate": false
   },
   "files": [
