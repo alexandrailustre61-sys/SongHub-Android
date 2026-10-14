@@ -4,8 +4,8 @@
     "versionCode": 666,
     "versionName": "6.6.6",
     "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/3.1.67/app-release.apk",
-    "changelog": "• Placeholder.",
-    "forceUpdate": true
+    "changelog": "• Demon's Placeholder. please exit this update for test.",
+    "forceUpdate": false
   },
   "files": [
     {
